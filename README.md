@@ -9,4 +9,5 @@ Clear the entire canvas
 This was built for Jon Froelich's CMSC434 class and used his video demo on creating a custom class as a base, in addition it used Sue Smith's tutrial as a refrence.
 
 Jon Froelich's video demo: https://www.youtube.com/watch?v=ktbYUrlN_Ws
+
 Sue Smith's Tutorial Series: http://code.tutsplus.com/tutorials/android-sdk-create-a-drawing-app-interface-creation--mobile-19021
